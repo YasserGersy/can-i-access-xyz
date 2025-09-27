@@ -2,5 +2,15 @@
 a list of services and how to  gain access to
 
 
-## Apache
-- [Superset](https://github.com/YasserGersy/can-i-access-xyz/blob/main/Panels/Apache/Superset.md)
+# Panels
+ - [Apache Superset](./Panels/Apache/Superset.md)
+ - [SapServer](./Panels/SapServer.md)
+ - [Kinetic-App](./Panels/Kinetic-App.md)
+ - [Intershop](./Panels/Intershop.md)
+ - [Evertz-Caption-Server.md](./Panels/Evertz-Caption-Server.md)
+ - [hitachi-Pentaho/Business-Analytics](./Panels/hitachi-Pentaho/Business-Analytics.md)
+ - [nagios-console](./Panels/nagios-console.md)
+ - [Insightsoftware/Logi-Composer](./Panels/Insightsoftware/Logi-Composer.md)
+ - [Apache Superset](./Panels/Apache/Superset.md)
+ - [Apache Superset](./Panels/Apache/Superset.md)
+
