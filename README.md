@@ -12,4 +12,5 @@ a list of services and how to  gain access to
  - [nagios-console](./Panels/nagios-console.md)
  - [Insightsoftware-Logi-Composer](./Panels/Insightsoftware/Logi-Composer.md)
  - [Jasper-reports-server](./Panels/JasperSoft/Jasper-reports-server.md)
+ - [Grafana](./Panels/Grafana.md)
 
