@@ -10,7 +10,6 @@ a list of services and how to  gain access to
  - [Evertz-Caption-Server.md](./Panels/Evertz-Caption-Server.md)
  - [hitachi-Pentaho/Business-Analytics](./Panels/hitachi-Pentaho/Business-Analytics.md)
  - [nagios-console](./Panels/nagios-console.md)
- - [Insightsoftware/Logi-Composer](./Panels/Insightsoftware/Logi-Composer.md)
- - [Apache Superset](./Panels/Apache/Superset.md)
- - [Apache Superset](./Panels/Apache/Superset.md)
+ - [Insightsoftware-Logi-Composer](./Panels/Insightsoftware/Logi-Composer.md)
+ - [Jasper-reports-server](./Panels/JasperSoft/Jasper-reports-server.md)
 
