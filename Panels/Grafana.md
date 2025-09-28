@@ -24,7 +24,7 @@ admin:
 ## Paths
 
 ```c
-/maints/login
+/login
 ```
 
 ## Success
