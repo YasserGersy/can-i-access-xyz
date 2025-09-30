@@ -13,4 +13,7 @@ a list of services and how to  gain access to
  - [Insightsoftware-Logi-Composer](./Panels/Insightsoftware/Logi-Composer.md)
  - [Jasper-reports-server](./Panels/JasperSoft/Jasper-reports-server.md)
  - [Grafana](./Panels/Grafana.md)
+ - [Google-Earth](./Panels/Google/Google-Earth-Enterprise.md)
+ - [Tiny-file-manager.md](./Panels/tiny-file-manager.md)
+ - 
 
