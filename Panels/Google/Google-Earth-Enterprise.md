@@ -27,13 +27,10 @@ geapacheuser:geeadmin
 
 ## Success
 ```
-200 OK
-DashboardPanel
-Earth Enterprise Server
+200 OK AND Contain_all(['DashboardPanel', 'Earth Enterprise Server'])
 ```
 
 ## References
-- [https://www.intershop.com/](https://www.opengee.org/geedocs/5.2.4/answer/3470759.html)
-
+- https://www.opengee.org/
   <img width="1351" height="354" alt="image" src="https://github.com/user-attachments/assets/e9f7ca78-4ead-4b39-9c64-76b8a3f168b1" />
 
